@@ -21,5 +21,5 @@ I built this page to showcase my final project for my Data Science course.
 ---
 
 ## Contact
-* **Email:** [tatterse@whitman.edu]
-* **GitHub:** [https://github.com/emi471]
+* **Email:** tatterse@whitman.edu
+* **GitHub:** https://github.com/emi471
