@@ -30,3 +30,4 @@ Here are five data sources I'm considering:
 
 ## Where's Schueller?
 Below is a live visualization of Professor Schueller's cycling geolocation data.
+<iframe src="Cycling_plot.html" width="100%" height="600" style="border:none;"></iframe>
