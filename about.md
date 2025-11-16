@@ -2,7 +2,7 @@
 
 ---
 
-![A photo of Emerie](profile.jpg)
+<img src="profile.jpg" alt="A photo of Emerie" width="300">
 
 ## Emerie Tattersall (they/them)
 Hello! I'm a student at Whitman studying Computer Science. 
