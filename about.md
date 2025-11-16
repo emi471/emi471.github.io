@@ -15,7 +15,7 @@ I built this page to showcase my final project for my Data Science course.
 * **Major:** Computer Science
 * **Expected Graduation:** 2027
 * **Completed Coursework:** Data Structures, Computer Simulation Methods, Discrete Math & Func. Prog., Computer Systems Fundamentals
-* **Programming:** Intermediate Python, C++
+* **Programming:** Python, C++
 * **Tools:** GitHub, VS Code
 
 ---
