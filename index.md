@@ -1,7 +1,14 @@
 # Welcome to My Portfolio!
 **[About Me](about.md)**
 
-This is the homepage for my final data analysis project.
+This is the homepage for my project portfolio.
+
+---
+
+## Final Project
+For the final data analysis project, the WA State EV population and infrastructure (EV chargers) were evaluated for a possible correlation with landmark EV legsislation. If there was a positive correlation, then landmark legsislation would directly correlate with an increase in the growth rates of EV production and expansion of EV infrastructure.
+
+[Project page link](https://emi471.github.io/data-science-portfolio/)
 
 ---
 
