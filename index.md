@@ -1,4 +1,4 @@
-# Welcome to My Project Page!
+# Welcome to My Portfolio!
 **[About Me](about.md)**
 
 This is the homepage for my final data analysis project.
