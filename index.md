@@ -1,4 +1,4 @@
-# Welcome to My Portfolio!
+# Welcome to my Portfolio!
 **[About Me](about.md)**
 
 This is the homepage for my project portfolio.
